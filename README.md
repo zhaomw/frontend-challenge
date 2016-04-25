@@ -3,7 +3,7 @@
 
 # 题目1: 
 * 使用框架：https://github.com/liuwenchao/strike
-* 使用接口：https://suggest.taobao.com/sug?code=utf-8&q=鼠标垫
+* 使用接口：https://suggest.taobao.com/sug?code=utf-8&callback=cb&q=鼠标垫
 * 新增一个页面，包含一个输入框和结果列表。
 * 在输入框输入任何非空字符敲击回车键后，结果列表刷新显示接口返回的结果。
 * 输入框输入的字符作为q参数的值。
